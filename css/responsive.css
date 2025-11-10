@@ -1,0 +1,531 @@
+@media only screen and (max-width: 500px) {
+    .hero-sec{
+    background-position: center center;
+    height: 650px;
+}
+
+.info{
+    padding-top: 100px;
+}
+.my-info{
+    font-size: 48px;
+}
+.para{
+    width: 100%;
+    color: rgb(172, 179, 179);
+}
+.up-box{
+    margin-left: 20px;
+}
+.down-box{
+    margin-left: 20px;
+}
+.icons{
+    padding-left: 0;
+    justify-content: flex-start !important;
+}
+
+.show{
+    width: 60% !important;
+}
+.navbar-collapse{
+    padding-top: 25px;
+}
+#active{
+    width: 70%;
+    padding-left: 15px;
+}
+.navbar-collapse ul li a:hover{
+    width: 70%;
+    padding-left: 15px;
+}
+
+/* ABOUT */
+
+.right-side{
+    padding: 0 15px 0 15px;
+}
+.left-side{
+    padding-bottom: 50px;
+}
+.about{
+   padding: 50px 0;
+}
+
+.right-side h3{
+    font-size: 32px;
+}
+.img-bg{
+    background-color: #FF014F;
+    height: 35px;
+    width: 45px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img-bg-1{
+    background-color: #FF014F;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.business-box h5{
+    width: 90%;
+}
+.bg-circle{
+    left: 50px;
+    top: 260px;
+    
+}
+.business-box {
+    padding: 30px 20px;
+    height: auto;
+}
+
+.text-bgg h5{
+    font-size: 16px;
+}
+.btnn{
+    margin-top: 10px;
+}
+
+
+
+/* SERVICE */
+
+
+.top-cont h2{
+    width: 100%;
+    font-size: 32px;
+}
+.top-cont p{
+    width: 100%;
+}
+
+.top-cont-1 h2{
+    font-size: 28px;
+    width: 100%;
+}
+.top-cont-1 p{
+    width: 100%;
+}
+.top-cont h5{
+    font-size: 14px;
+}
+.top-cont-1 h5{
+    font-size: 14px;
+}
+
+.top-cont-1 p{
+    width: 100%;
+}
+
+
+.text-bgg{
+    padding: 3px 8px;
+}
+.left-boxx{
+    margin: 15px 0 15px 0;
+    padding-right: 20px;
+}
+.right-boxx{
+    padding-right: 20px;
+}
+.para-001{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+.txt-box {
+    width: auto;
+    height: auto;
+    padding-bottom: 35px;
+}
+.ltst-img img{
+    width: 400px;
+    height: 416px;
+    margin-top: 55px !important;
+    margin-left: 0 !important;
+}
+.price-plan {
+    padding-top: 5vh;
+}
+.right-colm img{
+    width: 100%;
+    border-radius: 20px;
+    height: auto;
+    margin-top: 50px;
+}
+
+.para-experince{
+    width: 100%;
+}
+
+
+.top-cont-11 h2{
+    width: 100%;
+    font-size: 28px;
+}
+
+.top-cont-12 h2{
+    width: 100%;
+    font-size: 28px;
+
+}
+.b-box{
+    height: auto;
+}
+
+.blog-news {
+    padding: 4rem 0;
+}
+
+.middle-box{
+    margin: 25px 0;
+}
+.frm-hdng{
+    font-size: 28px;
+    width: 100%;
+}
+
+#btnn-frm{
+    width: 100%;
+}
+.frm-get{
+    padding-top: 50px;
+    font-size: 28px;
+}
+.frm-cont{
+    padding: 2rem 2rem !important;
+}
+
+
+.fa-envelope{
+   position: static;
+   left: 0px;
+   top: 0px;
+}
+
+footer{
+    padding: 50px 10px;
+}
+
+.only-line{
+    margin-top: 35px;
+}
+.ftr-heading{
+    font-size: 28px;
+}
+.top-diiv{
+    width: 100%;
+}
+
+.ouick-l{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.fa-envelope{
+    margin-left: -25px;
+}
+
+
+}
+
+
+@media only screen and (max-width: 450px) {
+    .hero-sec{
+    background-position: center center;
+    height: 650px;
+}
+
+.info{
+    padding-top: 100px;
+}
+.my-info{
+    font-size: 48px;
+}
+.para{
+    width: 100%;
+    color: rgb(172, 179, 179);
+}
+.up-box{
+    margin-left: 20px;
+}
+.down-box{
+    margin-left: 20px;
+}
+.icons{
+    padding-left: 0;
+    justify-content: flex-start !important;
+}
+
+.show{
+    width: 60% !important;
+}
+.navbar-collapse{
+    padding-top: 25px;
+}
+#active{
+    width: 70%;
+    padding-left: 15px;
+}
+.navbar-collapse ul li a:hover{
+    width: 70%;
+    padding-left: 15px;
+}
+
+/* ABOUT */
+
+.right-side{
+    padding: 0 15px 0 15px;
+}
+.left-side{
+    padding-bottom: 50px;
+}
+.about{
+   padding: 50px 0;
+}
+
+.right-side h3{
+    font-size: 32px;
+}
+.img-bg{
+    background-color: #FF014F;
+    height: 35px;
+    width: 45px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img-bg-1{
+    background-color: #FF014F;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.business-box h5{
+    width: 90%;
+}
+.bg-circle{
+    left: 50px;
+    top: 260px;
+    
+}
+.business-box {
+    padding: 30px 20px;
+    height: auto;
+}
+
+.text-bgg h5{
+    font-size: 12px;
+}
+.btnn{
+    margin-top: 10px;
+}
+
+.up-box {
+    padding: 64px 80px;
+    height: 375px;
+    width: 380px;
+}
+
+.down-box {
+    height: 175px;
+    width: 380px;
+}
+
+.bg-circle {
+    width: 380px;
+    height: 410px;
+    z-index: -1000;
+    left: 25px;
+}
+
+/* SERVICE */
+
+
+.top-cont h2{
+    width: 100%;
+    font-size: 32px;
+}
+.top-cont p{
+    width: 100%;
+}
+
+.top-cont-1 h2{
+    font-size: 28px;
+    width: 100%;
+}
+.top-cont-1 p{
+    width: 100%;
+}
+.top-cont h5{
+    font-size: 14px;
+}
+.top-cont-1 h5{
+    font-size: 14px;
+}
+
+.top-cont-1 p{
+    width: 100%;
+}
+
+
+.text-bgg{
+    padding: 3px 8px;
+}
+.left-boxx{
+    margin: 15px 0 15px 0;
+    padding-right: 20px;
+}
+.right-boxx{
+    padding-right: 20px;
+}
+.para-001{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+.txt-box {
+    width: auto;
+    height: auto;
+    padding-bottom: 35px;
+}
+.ltst-img img{
+    width: 400px;
+    height: 416px;
+    margin-top: 55px !important;
+}
+.price-plan {
+    padding-top: 5vh;
+}
+.right-colm img{
+    width: 100%;
+    border-radius: 20px;
+    height: auto;
+    margin-top: 50px;
+}
+
+.para-experince{
+    width: 100%;
+}
+
+
+.top-cont-11 h2{
+    width: 100%;
+    font-size: 28px;
+}
+
+.top-cont-12 h2{
+    width: 100%;
+    font-size: 28px;
+
+}
+.a-box{
+    height: auto;
+    width: 100%;
+}
+.b-box{
+    height: auto;
+    width: 100%;
+}
+.c-box{
+    height: auto;
+    width: 100%;
+}
+
+.blog-news {
+    padding: 4rem 0;
+}
+
+.left-box{
+    margin: 25px 0;
+    width: 100%;
+}
+
+.middle-box{
+    margin: 25px 0;
+    width: 100%;
+}
+
+.right-box{
+    margin: 25px 0;
+    width: 100%;
+}
+.frm-hdng{
+    font-size: 28px;
+    width: 100%;
+}
+
+#btnn-frm{
+    width: 100%;
+}
+.frm-get{
+    padding-top: 50px;
+    font-size: 28px;
+}
+.frm-cont{
+    padding: 2rem 2rem !important;
+}
+
+
+.fa-envelope{
+   position: static;
+   left: 0px;
+   top: 0px;
+}
+
+footer{
+    padding: 50px 10px;
+}
+
+.only-line{
+    margin-top: 35px;
+}
+.ftr-heading{
+    font-size: 28px;
+}
+.top-diiv{
+    width: 100%;
+}
+
+.ouick-l{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.fa-envelope{
+    margin-left: -25px;
+}
+
+
+}
